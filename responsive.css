@@ -151,8 +151,7 @@
     }
 
     #div {
-        margin-top: -90px;
-
+        margin-top: -44px;
     }
 
     #div h2 {
@@ -179,5 +178,34 @@
     .detail-box button {
         margin-left: 14px;
         padding: 0px 0px;
+    }
+
+    #info .client {
+        width: 100%;
+    }
+
+    #info h2 {
+        font-size: 14px;
+    }
+
+    #info .client {
+        margin-left: 0px;
+    }
+
+    .client h6 {
+        font-size: 14px;
+    }
+
+    .client p {
+        margin-top: 12px;
+        font-size: 6px;
+        margin-left: 14px;
+        margin-right: 14px;
+    }
+
+    .client i {
+        font-size: 14px;
+
+        margin-top: 5px;
     }
 }
