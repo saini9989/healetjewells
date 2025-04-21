@@ -112,11 +112,11 @@
     #class .first h2 {
         margin-top: -110px;
         font-size: 14px;
-        margin-left: 25px;
+        margin-left: 10px;
     }
 
     #class .first button {
-        margin-left: 27px;
+        margin-left: 12px;
         margin-top: 10px;
         padding: 3px 11px;
         font-size: 8px;
@@ -124,12 +124,25 @@
 
     #class .three .second .one h2 {
         font-size: 14px;
+        margin-right: -5px;
     }
 
     #class .three .second .one button {
         padding: 3px 11px;
+        font-size: 5px;
+        margin-top: -52px;
+        margin-right: -26px;
+    }
+
+    #class .three .second .two h2 {
+        margin: -210px 0px -8px 19px;
+        font-size: 10px;
+    }
+
+    #class .three .second .two button {
         font-size: 8px;
-        margin-top: -47px;
-        margin-right: -21px;
+        padding: 2px 9px;
+        margin-top: -61px;
+        margin-left: 20px;
     }
 }
