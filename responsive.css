@@ -109,6 +109,10 @@
         padding: 2px 12px;
     }
 
+    #class {
+        margin-top: -90px;
+    }
+
     #class .first h2 {
         margin-top: -110px;
         font-size: 14px;
@@ -144,5 +148,36 @@
         padding: 2px 9px;
         margin-top: -61px;
         margin-left: 20px;
+    }
+
+    #div {
+        margin-top: -90px;
+
+    }
+
+    #div h2 {
+        font-size: 14px;
+    }
+
+    .main-box h4 {
+        padding: 3px 3px;
+    }
+
+    .detail-box h5 {
+        font-size: 6px;
+        margin: 18px;
+        font-weight: 900;
+    }
+
+    .detail-box p {
+
+        font-size: 5px;
+        margin: 15px;
+        margin-top: -11px;
+    }
+
+    .detail-box button {
+        margin-left: 14px;
+        padding: 0px 0px;
     }
 }
