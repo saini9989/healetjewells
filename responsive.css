@@ -208,4 +208,14 @@
 
         margin-top: 5px;
     }
+
+    .b .b1 i {
+        padding: 8px;
+        margin: -438px;
+    }
+
+    .b2 i {
+        margin: -403px;
+        padding: 8px;
+    }
 }
