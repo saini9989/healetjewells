@@ -155,6 +155,378 @@
     color: white;
     background-color: #fd9c6b;
     border: none;
-   
-   
+    padding: 14px 58px;
+
 }
+
+#class .three {
+    display: flex;
+    justify-content: space-around;
+}
+
+.three .first img {
+    margin-top: 154px;
+    width: 100%;
+}
+
+.three .second .one img {
+    margin-top: 154px;
+    width: 100%;
+    padding: 0px 0px 0px 10px;
+}
+
+.three .second .two img {
+    width: 100%;
+    padding: 5px 0px 0px 10px;
+}
+
+.three .first h2 {
+    color: white;
+    margin-top: -372px;
+    font-size: 41px;
+    margin-left: 25px;
+}
+
+.three .first button {
+    margin: 25px;
+    padding: 10px 46px;
+    border: #fd9c6b solid;
+    font-size: 15px;
+    color: #fd9c6b;
+    background-color: transparent;
+}
+
+.one {
+    position: relative;
+}
+
+.three .second .one h2 {
+    color: white;
+    position: absolute;
+    top: 160px;
+    right: 0;
+
+    font-size: 41px;
+}
+
+.three .second .one button {
+    padding: 10px 46px;
+    margin: -12px;
+    right: 20px;
+    top: 230px;
+    position: absolute;
+    border: #fd9c6b solid;
+    font-size: 15px;
+    color: #fd9c6b;
+    background-color: transparent;
+}
+
+.second .two {
+    position: relative;
+}
+
+.three .second .two h2 {
+    color: white;
+    margin: -192px 0px 31px 19px;
+    position: absolute;
+    bottom: 36px;
+    font-size: 41px;
+}
+
+.three .second .two button {
+    padding: 10px 46px;
+    margin-left: 25px;
+    position: absolute;
+    top: 103px;
+
+    border: #fd9c6b solid;
+    font-size: 15px;
+    margin-top: 47px;
+    color: #fd9c6b;
+    background-color: transparent;
+}
+
+#div h2 {
+    text-transform: capitalize;
+    font-size: 40px;
+    text-align: center;
+    margin: 100px;
+}
+
+#div .main-box {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.col {
+    padding: 30px;
+}
+
+
+
+
+.main-box .col img {
+    width: 100%;
+    margin-top: -100px;
+    background-color: #f1f2f3;
+}
+
+.main-box h4 {
+    position: absolute;
+    top: -37px;
+    text-align: center;
+    color: #fff;
+    border: 3px solid #fff;
+    margin-left: 15px;
+    padding: 10px 15px;
+    background-color: #160e0b;
+    margin-right: 365px;
+}
+
+.detail-box {
+    padding-top: 5px;
+    background-color: whitesmoke;
+    position: relative;
+}
+
+.detail-box h5 {
+    font-size: 27px;
+    margin: 25px;
+    font-weight: 900;
+}
+
+.detail-box p {
+    font-size: 15px;
+    font-size: 15px;
+    margin: 25px;
+    margin-top: -19px;
+}
+
+.detail-box button {
+    background-color: transparent;
+    padding: 8px 24px;
+    border: 1.2px solid black;
+    margin-left: 30px;
+    margin-bottom: 9px;
+    margin-top: -6px;
+}
+
+#info h2 {
+    text-transform: capitalize;
+    font-size: 40px;
+    text-align: center;
+    margin: 68px;
+}
+
+#info .client {
+    background-color: black;
+    width: 65%;
+    padding-bottom: 25px;
+    padding-top: 27px;
+    margin-top: -40px;
+    margin-left: 192px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+#info .client img {
+    width: 15%;
+    border-radius: 100%;
+    border: 7px solid rgba(255, 255, 255, .45);
+}
+
+.client h6 {
+    color: #fd9c6b;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.client p {
+    color: white;
+
+    margin-top: 20px;
+}
+
+.client i {
+    font-size: 35px;
+    color: white;
+    margin-top: 25px;
+}
+
+.b {
+    display: flex;
+    display: flex;
+    margin-left: 575px;
+
+    margin-top: 30px;
+}
+
+.b1 i {
+    color: white;
+    background-color: #fd9c6b;
+    padding: 15px;
+    margin: 5px;
+    border-radius: 6px;
+}
+
+.b2 i {
+    color: white;
+    background-color: #fd9c6b;
+    padding: 15px;
+    margin: 5px;
+    border-radius: 6px;
+}
+
+#end .footer {
+
+    color: #fff;
+
+    padding: 65px 0px 113px 0px;
+    margin-top: 65px;
+}
+
+#end {
+    background-color: black;
+}
+
+#end form input {
+
+    margin-left: -11px;
+    margin-top: -24px;
+    font-size: 20px;
+    padding: 11px 504px 14px 24px;
+}
+
+.footer i {
+    color: white;
+    background-color: #fd9c6b;
+    padding: 19px;
+}
+
+.footer .if {
+    display: flex;
+    margin-top: -36px;
+}
+
+.footer .icon i {
+    width: 2%;
+    font-size: 22px;
+    margin-left: 851px;
+    margin-bottom: -131px;
+    margin-top: -62px;
+
+    background-color: transparent;
+    border: 1px solid white;
+}
+
+.icon1 i {
+    width: 32%;
+    font-size: 22px;
+    margin-top: -23px;
+    background-color: transparent;
+    border: 1px solid white;
+}
+
+.icon2 i {
+    width: 32%;
+    font-size: 22px;
+    background-color: transparent;
+    margin-top: -23px;
+    border: 1px solid white;
+}
+
+.foot {
+    color: white;
+    display: flex;
+    padding-bottom: 50px;
+    margin-top: -75px;
+}
+
+.foot .list h4 {
+    font-size: 30px;
+}
+
+.list ul {
+    line-height: 2.5;
+}
+
+.list ul li {
+    list-style: none;
+}
+
+.insta {
+    margin-left: 155px;
+}
+
+.insta h4 {
+    font-size: 30px;
+}
+
+.post {
+    display: flex;
+    margin-top: 18px;
+    margin-bottom: 23px;
+}
+
+.post img {
+    width: 45px;
+    padding: 11px;
+    background-color: white;
+}
+
+.post p {
+    margin-left: 17px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.post1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.post1 img {
+    width: 35px;
+    background-color: white;
+    padding: 11px;
+}
+
+.post1 p {
+    margin-left: 17px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.about h4 {
+    font-size: 30px;
+    margin-left: 155px;
+}
+
+.about p {
+    margin-left: 155px;
+    margin-top: 15px;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.6;
+}
+
+.contact h4 {
+    font-size: 30px;
+    margin-left: 155px;
+}
+
+.contact ul li {
+    list-style: none;
+    margin-top: 14px;
+    line-height: 1.7;
+    margin-left: 155px;
+}
+
+.contact ul li i {
+    width: 25px;
+    color: white;
+}
+.contact span{ font-size: 16px;
+    }
+    .page p{text-align: center;margin-top: 15px;}
