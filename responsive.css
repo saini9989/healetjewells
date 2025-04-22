@@ -83,24 +83,24 @@
     }
 
     #img-box .row img {
-        width: 25%;
+        width: 90%;
         box-shadow: 4px 3px;
         margin: 0px;
-        padding: 12px;
+        padding: 10px;
         margin-top: 33px;
     }
 
     #img-box .row .left h6 {
         font-weight: 200;
-        font-size: 14px;
-        margin-top: 27px;
-        margin-bottom: 14px;
+        font-size: 16px;
+        margin-top: 258px;
+        margin-bottom: 9px;
         margin-left: -191px;
     }
 
     #img-box .row .left p {
-        margin-left: -192px;
-        font-size: 8px;
+        margin-left: -295px;
+        font-size: 12px;
     }
 
     .row .left button {
@@ -218,4 +218,11 @@
         margin: -375px;
         padding: 8px;
     }
+
+    #end form input {
+        margin-left: -21px;
+        font-size: 14px;
+        padding: 7px 4px 8px 8px;
+    }
+    .footer i{    padding: 10px;}
 }
